@@ -1,5 +1,6 @@
 #spis
 #[nazwa pliku graficznego] [rozwiązanie] [ID sesji]
+a32 2hhn87gm 54rg9r94f07vf6kc77ed68j9k7
 a33 j6knnrv2 e9gg1stbufkompdr40p8gse8u1
 a34 r5fwmdt5 hvfv0hmudk8u7mi06r99lbcfr5
 a35 fyk5y2mf 92df5657hc7opvbbs760i4ord7
@@ -134,6 +135,7 @@ b75 9hti48mw 0en5e6pn9ad884rr5dkij42oi0
 b84 yb3r862n tfukhmlht6nscivik4aaiek093
 b85 d9kyyibi bl1uo2l3d4r1e7hepqbvefgse3
 b88 t5mk6wr8 f25petm62ccpkvc9sb3m9k9e10
+b97 htpmnvd5 i920sm5s8892nt9hnpig11q1s5
 b98 dtgv4r4j 7nldph4k4p20ig24fur2sl3655
 b99 iinfnbjf lmafsbndp6cig8jcdcusk7nsi7
 c01 mpdi8imp s4ci7v69pm392ecbikaspd9kh3
@@ -145,3 +147,4 @@ c06 fwqyf9wy dfabue9ppfr3sdesg98tcbefd7
 c12 647h3hfy 23a400m1tmpik7akk3ib5pvgn7
 c17 j664hvgv qs9eu8u8r0tetpfqu3tc6h9us6
 c18 7339njkw h1gbfs6r611bhklvsg751hulp7
+c19 fing5i4t gnirrcs6mkj77k27i43iviu7c1
