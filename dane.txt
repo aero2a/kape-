@@ -1,5 +1,6 @@
 #spis
 #[nazwa pliku graficznego] [rozwiązanie] [ID sesji]
+a26 358h5h39 b5nvhsum5qvtt01pg0hc338i57
 a27 pndv4646 j0tiqahp3jib481p1l3r1698k4
 a28 qf7445qy 4hvsn1t0vo7hr3kafhrr1ivh96
 a29 yb4g5f4j i4khialqca35rb6o6tnqkicgp4
@@ -162,6 +163,9 @@ b90 y7iiytr9 vcuer31rq89rh6803ib5rqqg15
 b91 y7dtt7kn 81r7n25sim0qk93oj53ulcqes5
 b92 3hkvdy9t u24d3r6umk0fk82nqbqhq1iq44
 b93 29ydbv42 o61uo2on8dtck4aissvfkgfjc1
+b94 fing5i4t gnirrcs6mkj77k27i43iviu7c1
+b95 66ym49kw 4dpqqh05na94t74cbc4je2cru3
+b96 j664hvgv qs9eu8u8r0tetpfqu3tc6h9us6
 b97 htpmnvd5 i920sm5s8892nt9hnpig11q1s5
 b98 dtgv4r4j 7nldph4k4p20ig24fur2sl3655
 b99 iinfnbjf lmafsbndp6cig8jcdcusk7nsi7
@@ -178,5 +182,4 @@ c10 v3p4h3qf r14fbl4ln9csimr8938np6hse2
 c11 98dmpq3d 1u95o5i273kdq125n1uhfl6976
 c12 647h3hfy 23a400m1tmpik7akk3ib5pvgn7
 c13 4d8grjtm paepkj99k0gsiibbasg84jr5t5
-c17 j664hvgv qs9eu8u8r0tetpfqu3tc6h9us6
-c19 fing5i4t gnirrcs6mkj77k27i43iviu7c1
+c14 ttqb7rmq 7jh04p74qs1p3j02dulr236ov3
