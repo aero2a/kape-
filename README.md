@@ -3,10 +3,10 @@ Zbiór kapci generowanych przez Aero2
 
 Prosty zbiór, który być może pomoże innym na napisanie programu do rozwiązywania kapci
 
-W rozwiązaniach znaleziono 25 znaków
+W rozwiązaniach znaleziono 25 znaków:
 ["2", "3", "4", "5", "6", "7", "8", "9", "b", "d", "f", "g", "h", "i", "j", "k", "m", "n", "p", "q", "r", "t", "v", "w", "y"]
 
-W 'id' znaleziono 32 znaków
+W 'id' znaleziono 32 znaków:
 ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v"]
 
 Częstotliwość znaków w rozwiązaniach
