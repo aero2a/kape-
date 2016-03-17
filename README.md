@@ -36,3 +36,4 @@ Częstotliwość znaków w rozwiązaniach
  ["w", 54]
  ["y", 62]
 
+id zawsze kończy sie cyfrą.
