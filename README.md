@@ -36,4 +36,6 @@ Częstotliwość znaków w rozwiązaniach
  ["w", 54]
  ["y", 62]
 
-id zawsze kończy sie cyfrą.
+'id' zawsze kończy się cyfrą.
+Grafiki maja nagłówek: CREATOR: gd-jpeg v1.0 (using IJG JPEG v80), quality = 80
+
